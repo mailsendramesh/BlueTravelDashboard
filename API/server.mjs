@@ -25,4 +25,6 @@ export const server = http.createServer((req,res) => {
   if(result === null){res.writeHead(404);return res.end(JSON.stringify({error:'Not found'}));}
   res.writeHead(200);res.end(JSON.stringify(result));
 });
-if(process.argv[1] && import.meta.url.endsWith(process.argv[1].replaceAll('\\','/'))){server.listen(PORT,'127.0.0.1',()=>console.log(`API http://127.0.0.1:${PORT}`));}
+if(process.argv[1] && import.meta.url.endsWith(process.argv[1].replaceAll('\\','/'))){server.listen(PORT, '0.0.0.0', () => {
+    console.log(`API running on port ${PORT}`);
+});}
