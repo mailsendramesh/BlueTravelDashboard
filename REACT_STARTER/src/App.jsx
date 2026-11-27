@@ -6,7 +6,8 @@ import SummaryCard from './components/SummaryCard.jsx';
 import TransactionTable from './components/TransactionTable.jsx';
 import styles from './App.module.css';
 
-const API = import.meta.env.VITE_API_URL || 'http://localhost:4177';
+const API =
+  import.meta.env.VITE_API_BASE_URL || 'http://localhost:4177';
 
 const currencyFormatter = new Intl.NumberFormat('en-IN', {
   style: 'currency',
