@@ -1,0 +1,8 @@
+BLUE TRAVEL DASHBOARD | SUBMISSION
+[ ] GitHub repository URL containing complete source code and a clean README.md
+[ ] Live HTTPS deployment URL (Vercel, Netlify or similar), functional without localhost-only API dependencies
+[ ] README.md: dependencies, setup, components, API configuration and deployed URLs
+[ ] Completed acceptance-test matrix with genuine browser, accessibility and build results
+[ ] Brief COMPLETION_NOTE.txt: implemented functions, testing environments, remaining issues
+[ ] One Google Drive folder shared Viewer with the authorized reviewer, containing outputs and URL links
+[ ] Verify code follows the agreed fixed INR 923 scope and 30 November 2026 deadline

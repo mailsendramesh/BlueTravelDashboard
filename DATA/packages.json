@@ -1,0 +1,86 @@
+[
+  {
+    "package_id": "PKG-001",
+    "name": "Goa Coastal Escape",
+    "region": "West",
+    "price_inr": 13999,
+    "duration_days": 4
+  },
+  {
+    "package_id": "PKG-002",
+    "name": "Jaipur Heritage Trail",
+    "region": "North",
+    "price_inr": 17499,
+    "duration_days": 5
+  },
+  {
+    "package_id": "PKG-003",
+    "name": "Kerala Backwaters",
+    "region": "South",
+    "price_inr": 23999,
+    "duration_days": 6
+  },
+  {
+    "package_id": "PKG-004",
+    "name": "Manali Mountain Trek",
+    "region": "North",
+    "price_inr": 18999,
+    "duration_days": 5
+  },
+  {
+    "package_id": "PKG-005",
+    "name": "Andaman Island Journey",
+    "region": "East",
+    "price_inr": 34999,
+    "duration_days": 6
+  },
+  {
+    "package_id": "PKG-006",
+    "name": "Rishikesh Adventure",
+    "region": "North",
+    "price_inr": 12999,
+    "duration_days": 3
+  },
+  {
+    "package_id": "PKG-007",
+    "name": "Udaipur Lake Retreat",
+    "region": "West",
+    "price_inr": 19999,
+    "duration_days": 5
+  },
+  {
+    "package_id": "PKG-008",
+    "name": "Coorg Coffee Escape",
+    "region": "South",
+    "price_inr": 16499,
+    "duration_days": 4
+  },
+  {
+    "package_id": "PKG-009",
+    "name": "Pondicherry Weekend",
+    "region": "South",
+    "price_inr": 11999,
+    "duration_days": 3
+  },
+  {
+    "package_id": "PKG-010",
+    "name": "Darjeeling Highlands",
+    "region": "East",
+    "price_inr": 22499,
+    "duration_days": 5
+  },
+  {
+    "package_id": "PKG-011",
+    "name": "Hampi Heritage Walk",
+    "region": "South",
+    "price_inr": 14499,
+    "duration_days": 4
+  },
+  {
+    "package_id": "PKG-012",
+    "name": "Mysuru City Break",
+    "region": "South",
+    "price_inr": 10499,
+    "duration_days": 3
+  }
+]

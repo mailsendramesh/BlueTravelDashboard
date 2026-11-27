@@ -1,0 +1,161 @@
+transaction_id,booking_id,booked_at,customer_label,package_id,package_name,region,channel,amount_inr,status,travellers
+TXN-00001,BTA-1001,2026-10-08,Guest 001,PKG-008,Coorg Coffee Escape,South,Website,16499,Paid,2
+TXN-00002,BTA-1002,2026-11-15,Guest 002,PKG-003,Kerala Backwaters,South,Referral,23999,Paid,3
+TXN-00003,BTA-1003,2026-09-22,Guest 003,PKG-010,Darjeeling Highlands,East,Partner,22499,Pending,4
+TXN-00004,BTA-1004,2026-10-02,Guest 004,PKG-005,Andaman Island Journey,East,Direct,69998,Paid,1
+TXN-00005,BTA-1005,2026-11-09,Guest 005,PKG-012,Mysuru City Break,South,Website,10499,Refunded,2
+TXN-00006,BTA-1006,2026-09-16,Guest 006,PKG-007,Udaipur Lake Retreat,West,Referral,19999,Cancelled,3
+TXN-00007,BTA-1007,2026-10-23,Guest 007,PKG-002,Jaipur Heritage Trail,North,Partner,17499,Paid,4
+TXN-00008,BTA-1008,2026-11-03,Guest 008,PKG-009,Pondicherry Weekend,South,Direct,23998,Paid,1
+TXN-00009,BTA-1009,2026-09-10,Guest 009,PKG-005,Andaman Island Journey,East,Website,34999,Pending,2
+TXN-00010,BTA-1010,2026-10-17,Guest 010,PKG-012,Mysuru City Break,South,Referral,10499,Paid,3
+TXN-00011,BTA-1011,2026-11-24,Guest 011,PKG-007,Udaipur Lake Retreat,West,Partner,19999,Refunded,4
+TXN-00012,BTA-1012,2026-09-04,Guest 012,PKG-002,Jaipur Heritage Trail,North,Direct,34998,Cancelled,1
+TXN-00013,BTA-1013,2026-10-11,Guest 013,PKG-009,Pondicherry Weekend,South,Website,11999,Paid,2
+TXN-00014,BTA-1014,2026-11-18,Guest 014,PKG-004,Manali Mountain Trek,North,Referral,18999,Paid,3
+TXN-00015,BTA-1015,2026-09-25,Guest 015,PKG-011,Hampi Heritage Walk,South,Partner,14499,Pending,4
+TXN-00016,BTA-1016,2026-10-05,Guest 016,PKG-006,Rishikesh Adventure,North,Direct,25998,Paid,1
+TXN-00017,BTA-1017,2026-11-12,Guest 017,PKG-001,Goa Coastal Escape,West,Website,13999,Refunded,2
+TXN-00018,BTA-1018,2026-09-19,Guest 018,PKG-009,Pondicherry Weekend,South,Referral,11999,Cancelled,3
+TXN-00019,BTA-1019,2026-10-26,Guest 019,PKG-004,Manali Mountain Trek,North,Partner,18999,Paid,4
+TXN-00020,BTA-1020,2026-11-06,Guest 020,PKG-011,Hampi Heritage Walk,South,Direct,28998,Paid,1
+TXN-00021,BTA-1021,2026-09-13,Guest 021,PKG-006,Rishikesh Adventure,North,Website,12999,Pending,2
+TXN-00022,BTA-1022,2026-10-20,Guest 022,PKG-001,Goa Coastal Escape,West,Referral,13999,Paid,3
+TXN-00023,BTA-1023,2026-11-27,Guest 023,PKG-008,Coorg Coffee Escape,South,Partner,16499,Refunded,4
+TXN-00024,BTA-1024,2026-09-07,Guest 024,PKG-003,Kerala Backwaters,South,Direct,47998,Cancelled,1
+TXN-00025,BTA-1025,2026-10-14,Guest 025,PKG-010,Darjeeling Highlands,East,Website,22499,Paid,2
+TXN-00026,BTA-1026,2026-11-21,Guest 026,PKG-005,Andaman Island Journey,East,Referral,34999,Paid,3
+TXN-00027,BTA-1027,2026-09-01,Guest 027,PKG-001,Goa Coastal Escape,West,Partner,13999,Pending,4
+TXN-00028,BTA-1028,2026-10-08,Guest 028,PKG-008,Coorg Coffee Escape,South,Direct,32998,Paid,1
+TXN-00029,BTA-1029,2026-11-15,Guest 029,PKG-003,Kerala Backwaters,South,Website,23999,Refunded,2
+TXN-00030,BTA-1030,2026-09-22,Guest 030,PKG-010,Darjeeling Highlands,East,Referral,22499,Cancelled,3
+TXN-00031,BTA-1031,2026-10-02,Guest 031,PKG-005,Andaman Island Journey,East,Partner,34999,Paid,4
+TXN-00032,BTA-1032,2026-11-09,Guest 032,PKG-012,Mysuru City Break,South,Direct,20998,Paid,1
+TXN-00033,BTA-1033,2026-09-16,Guest 033,PKG-007,Udaipur Lake Retreat,West,Website,19999,Pending,2
+TXN-00034,BTA-1034,2026-10-23,Guest 034,PKG-002,Jaipur Heritage Trail,North,Referral,17499,Paid,3
+TXN-00035,BTA-1035,2026-11-03,Guest 035,PKG-009,Pondicherry Weekend,South,Partner,11999,Refunded,4
+TXN-00036,BTA-1036,2026-09-10,Guest 036,PKG-005,Andaman Island Journey,East,Direct,69998,Cancelled,1
+TXN-00037,BTA-1037,2026-10-17,Guest 037,PKG-012,Mysuru City Break,South,Website,10499,Paid,2
+TXN-00038,BTA-1038,2026-11-24,Guest 038,PKG-007,Udaipur Lake Retreat,West,Referral,19999,Paid,3
+TXN-00039,BTA-1039,2026-09-04,Guest 039,PKG-002,Jaipur Heritage Trail,North,Partner,17499,Pending,4
+TXN-00040,BTA-1040,2026-10-11,Guest 040,PKG-009,Pondicherry Weekend,South,Direct,23998,Paid,1
+TXN-00041,BTA-1041,2026-11-18,Guest 041,PKG-004,Manali Mountain Trek,North,Website,18999,Refunded,2
+TXN-00042,BTA-1042,2026-09-25,Guest 042,PKG-011,Hampi Heritage Walk,South,Referral,14499,Cancelled,3
+TXN-00043,BTA-1043,2026-10-05,Guest 043,PKG-006,Rishikesh Adventure,North,Partner,12999,Paid,4
+TXN-00044,BTA-1044,2026-11-12,Guest 044,PKG-001,Goa Coastal Escape,West,Direct,27998,Paid,1
+TXN-00045,BTA-1045,2026-09-19,Guest 045,PKG-009,Pondicherry Weekend,South,Website,11999,Pending,2
+TXN-00046,BTA-1046,2026-10-26,Guest 046,PKG-004,Manali Mountain Trek,North,Referral,18999,Paid,3
+TXN-00047,BTA-1047,2026-11-06,Guest 047,PKG-011,Hampi Heritage Walk,South,Partner,14499,Refunded,4
+TXN-00048,BTA-1048,2026-09-13,Guest 048,PKG-006,Rishikesh Adventure,North,Direct,25998,Cancelled,1
+TXN-00049,BTA-1049,2026-10-20,Guest 049,PKG-001,Goa Coastal Escape,West,Website,13999,Paid,2
+TXN-00050,BTA-1050,2026-11-27,Guest 050,PKG-008,Coorg Coffee Escape,South,Referral,16499,Paid,3
+TXN-00051,BTA-1051,2026-09-07,Guest 051,PKG-003,Kerala Backwaters,South,Partner,23999,Pending,4
+TXN-00052,BTA-1052,2026-10-14,Guest 052,PKG-010,Darjeeling Highlands,East,Direct,44998,Paid,1
+TXN-00053,BTA-1053,2026-11-21,Guest 053,PKG-005,Andaman Island Journey,East,Website,34999,Refunded,2
+TXN-00054,BTA-1054,2026-09-01,Guest 054,PKG-001,Goa Coastal Escape,West,Referral,13999,Cancelled,3
+TXN-00055,BTA-1055,2026-10-08,Guest 055,PKG-008,Coorg Coffee Escape,South,Partner,16499,Paid,4
+TXN-00056,BTA-1056,2026-11-15,Guest 056,PKG-003,Kerala Backwaters,South,Direct,47998,Paid,1
+TXN-00057,BTA-1057,2026-09-22,Guest 057,PKG-010,Darjeeling Highlands,East,Website,22499,Pending,2
+TXN-00058,BTA-1058,2026-10-02,Guest 058,PKG-005,Andaman Island Journey,East,Referral,34999,Paid,3
+TXN-00059,BTA-1059,2026-11-09,Guest 059,PKG-012,Mysuru City Break,South,Partner,10499,Refunded,4
+TXN-00060,BTA-1060,2026-09-16,Guest 060,PKG-007,Udaipur Lake Retreat,West,Direct,39998,Cancelled,1
+TXN-00061,BTA-1061,2026-10-23,Guest 061,PKG-002,Jaipur Heritage Trail,North,Website,17499,Paid,2
+TXN-00062,BTA-1062,2026-11-03,Guest 062,PKG-009,Pondicherry Weekend,South,Referral,11999,Paid,3
+TXN-00063,BTA-1063,2026-09-10,Guest 063,PKG-005,Andaman Island Journey,East,Partner,34999,Pending,4
+TXN-00064,BTA-1064,2026-10-17,Guest 064,PKG-012,Mysuru City Break,South,Direct,20998,Paid,1
+TXN-00065,BTA-1065,2026-11-24,Guest 065,PKG-007,Udaipur Lake Retreat,West,Website,19999,Refunded,2
+TXN-00066,BTA-1066,2026-09-04,Guest 066,PKG-002,Jaipur Heritage Trail,North,Referral,17499,Cancelled,3
+TXN-00067,BTA-1067,2026-10-11,Guest 067,PKG-009,Pondicherry Weekend,South,Partner,11999,Paid,4
+TXN-00068,BTA-1068,2026-11-18,Guest 068,PKG-004,Manali Mountain Trek,North,Direct,37998,Paid,1
+TXN-00069,BTA-1069,2026-09-25,Guest 069,PKG-011,Hampi Heritage Walk,South,Website,14499,Pending,2
+TXN-00070,BTA-1070,2026-10-05,Guest 070,PKG-006,Rishikesh Adventure,North,Referral,12999,Paid,3
+TXN-00071,BTA-1071,2026-11-12,Guest 071,PKG-001,Goa Coastal Escape,West,Partner,13999,Refunded,4
+TXN-00072,BTA-1072,2026-09-19,Guest 072,PKG-009,Pondicherry Weekend,South,Direct,23998,Cancelled,1
+TXN-00073,BTA-1073,2026-10-26,Guest 073,PKG-004,Manali Mountain Trek,North,Website,18999,Paid,2
+TXN-00074,BTA-1074,2026-11-06,Guest 074,PKG-011,Hampi Heritage Walk,South,Referral,14499,Paid,3
+TXN-00075,BTA-1075,2026-09-13,Guest 075,PKG-006,Rishikesh Adventure,North,Partner,12999,Pending,4
+TXN-00076,BTA-1076,2026-10-20,Guest 076,PKG-001,Goa Coastal Escape,West,Direct,27998,Paid,1
+TXN-00077,BTA-1077,2026-11-27,Guest 077,PKG-008,Coorg Coffee Escape,South,Website,16499,Refunded,2
+TXN-00078,BTA-1078,2026-09-07,Guest 078,PKG-003,Kerala Backwaters,South,Referral,23999,Cancelled,3
+TXN-00079,BTA-1079,2026-10-14,Guest 079,PKG-010,Darjeeling Highlands,East,Partner,22499,Paid,4
+TXN-00080,BTA-1080,2026-11-21,Guest 080,PKG-005,Andaman Island Journey,East,Direct,69998,Paid,1
+TXN-00081,BTA-1081,2026-09-01,Guest 081,PKG-001,Goa Coastal Escape,West,Website,13999,Pending,2
+TXN-00082,BTA-1082,2026-10-08,Guest 082,PKG-008,Coorg Coffee Escape,South,Referral,16499,Paid,3
+TXN-00083,BTA-1083,2026-11-15,Guest 083,PKG-003,Kerala Backwaters,South,Partner,23999,Refunded,4
+TXN-00084,BTA-1084,2026-09-22,Guest 084,PKG-010,Darjeeling Highlands,East,Direct,44998,Cancelled,1
+TXN-00085,BTA-1085,2026-10-02,Guest 085,PKG-005,Andaman Island Journey,East,Website,34999,Paid,2
+TXN-00086,BTA-1086,2026-11-09,Guest 086,PKG-012,Mysuru City Break,South,Referral,10499,Paid,3
+TXN-00087,BTA-1087,2026-09-16,Guest 087,PKG-007,Udaipur Lake Retreat,West,Partner,19999,Pending,4
+TXN-00088,BTA-1088,2026-10-23,Guest 088,PKG-002,Jaipur Heritage Trail,North,Direct,34998,Paid,1
+TXN-00089,BTA-1089,2026-11-03,Guest 089,PKG-009,Pondicherry Weekend,South,Website,11999,Refunded,2
+TXN-00090,BTA-1090,2026-09-10,Guest 090,PKG-005,Andaman Island Journey,East,Referral,34999,Cancelled,3
+TXN-00091,BTA-1091,2026-10-17,Guest 091,PKG-012,Mysuru City Break,South,Partner,10499,Paid,4
+TXN-00092,BTA-1092,2026-11-24,Guest 092,PKG-007,Udaipur Lake Retreat,West,Direct,39998,Paid,1
+TXN-00093,BTA-1093,2026-09-04,Guest 093,PKG-002,Jaipur Heritage Trail,North,Website,17499,Pending,2
+TXN-00094,BTA-1094,2026-10-11,Guest 094,PKG-009,Pondicherry Weekend,South,Referral,11999,Paid,3
+TXN-00095,BTA-1095,2026-11-18,Guest 095,PKG-004,Manali Mountain Trek,North,Partner,18999,Refunded,4
+TXN-00096,BTA-1096,2026-09-25,Guest 096,PKG-011,Hampi Heritage Walk,South,Direct,28998,Cancelled,1
+TXN-00097,BTA-1097,2026-10-05,Guest 097,PKG-006,Rishikesh Adventure,North,Website,12999,Paid,2
+TXN-00098,BTA-1098,2026-11-12,Guest 098,PKG-001,Goa Coastal Escape,West,Referral,13999,Paid,3
+TXN-00099,BTA-1099,2026-09-19,Guest 099,PKG-009,Pondicherry Weekend,South,Partner,11999,Pending,4
+TXN-00100,BTA-1100,2026-10-26,Guest 100,PKG-004,Manali Mountain Trek,North,Direct,37998,Paid,1
+TXN-00101,BTA-1101,2026-11-06,Guest 101,PKG-011,Hampi Heritage Walk,South,Website,14499,Refunded,2
+TXN-00102,BTA-1102,2026-09-13,Guest 102,PKG-006,Rishikesh Adventure,North,Referral,12999,Cancelled,3
+TXN-00103,BTA-1103,2026-10-20,Guest 103,PKG-001,Goa Coastal Escape,West,Partner,13999,Paid,4
+TXN-00104,BTA-1104,2026-11-27,Guest 104,PKG-008,Coorg Coffee Escape,South,Direct,32998,Paid,1
+TXN-00105,BTA-1105,2026-09-07,Guest 105,PKG-003,Kerala Backwaters,South,Website,23999,Pending,2
+TXN-00106,BTA-1106,2026-10-14,Guest 106,PKG-010,Darjeeling Highlands,East,Referral,22499,Paid,3
+TXN-00107,BTA-1107,2026-11-21,Guest 107,PKG-005,Andaman Island Journey,East,Partner,34999,Refunded,4
+TXN-00108,BTA-1108,2026-09-01,Guest 108,PKG-001,Goa Coastal Escape,West,Direct,27998,Cancelled,1
+TXN-00109,BTA-1109,2026-10-08,Guest 109,PKG-008,Coorg Coffee Escape,South,Website,16499,Paid,2
+TXN-00110,BTA-1110,2026-11-15,Guest 110,PKG-003,Kerala Backwaters,South,Referral,23999,Paid,3
+TXN-00111,BTA-1111,2026-09-22,Guest 111,PKG-010,Darjeeling Highlands,East,Partner,22499,Pending,4
+TXN-00112,BTA-1112,2026-10-02,Guest 112,PKG-005,Andaman Island Journey,East,Direct,69998,Paid,1
+TXN-00113,BTA-1113,2026-11-09,Guest 113,PKG-012,Mysuru City Break,South,Website,10499,Refunded,2
+TXN-00114,BTA-1114,2026-09-16,Guest 114,PKG-007,Udaipur Lake Retreat,West,Referral,19999,Cancelled,3
+TXN-00115,BTA-1115,2026-10-23,Guest 115,PKG-002,Jaipur Heritage Trail,North,Partner,17499,Paid,4
+TXN-00116,BTA-1116,2026-11-03,Guest 116,PKG-009,Pondicherry Weekend,South,Direct,23998,Paid,1
+TXN-00117,BTA-1117,2026-09-10,Guest 117,PKG-005,Andaman Island Journey,East,Website,34999,Pending,2
+TXN-00118,BTA-1118,2026-10-17,Guest 118,PKG-012,Mysuru City Break,South,Referral,10499,Paid,3
+TXN-00119,BTA-1119,2026-11-24,Guest 119,PKG-007,Udaipur Lake Retreat,West,Partner,19999,Refunded,4
+TXN-00120,BTA-1120,2026-09-04,Guest 120,PKG-002,Jaipur Heritage Trail,North,Direct,34998,Cancelled,1
+TXN-00121,BTA-1121,2026-10-11,Guest 121,PKG-009,Pondicherry Weekend,South,Website,11999,Paid,2
+TXN-00122,BTA-1122,2026-11-18,Guest 122,PKG-004,Manali Mountain Trek,North,Referral,18999,Paid,3
+TXN-00123,BTA-1123,2026-09-25,Guest 123,PKG-011,Hampi Heritage Walk,South,Partner,14499,Pending,4
+TXN-00124,BTA-1124,2026-10-05,Guest 124,PKG-006,Rishikesh Adventure,North,Direct,25998,Paid,1
+TXN-00125,BTA-1125,2026-11-12,Guest 125,PKG-001,Goa Coastal Escape,West,Website,13999,Refunded,2
+TXN-00126,BTA-1126,2026-09-19,Guest 126,PKG-009,Pondicherry Weekend,South,Referral,11999,Cancelled,3
+TXN-00127,BTA-1127,2026-10-26,Guest 127,PKG-004,Manali Mountain Trek,North,Partner,18999,Paid,4
+TXN-00128,BTA-1128,2026-11-06,Guest 128,PKG-011,Hampi Heritage Walk,South,Direct,28998,Paid,1
+TXN-00129,BTA-1129,2026-09-13,Guest 129,PKG-006,Rishikesh Adventure,North,Website,12999,Pending,2
+TXN-00130,BTA-1130,2026-10-20,Guest 130,PKG-001,Goa Coastal Escape,West,Referral,13999,Paid,3
+TXN-00131,BTA-1131,2026-11-27,Guest 131,PKG-008,Coorg Coffee Escape,South,Partner,16499,Refunded,4
+TXN-00132,BTA-1132,2026-09-07,Guest 132,PKG-003,Kerala Backwaters,South,Direct,47998,Cancelled,1
+TXN-00133,BTA-1133,2026-10-14,Guest 133,PKG-010,Darjeeling Highlands,East,Website,22499,Paid,2
+TXN-00134,BTA-1134,2026-11-21,Guest 134,PKG-005,Andaman Island Journey,East,Referral,34999,Paid,3
+TXN-00135,BTA-1135,2026-09-01,Guest 135,PKG-001,Goa Coastal Escape,West,Partner,13999,Pending,4
+TXN-00136,BTA-1136,2026-10-08,Guest 136,PKG-008,Coorg Coffee Escape,South,Direct,32998,Paid,1
+TXN-00137,BTA-1137,2026-11-15,Guest 137,PKG-003,Kerala Backwaters,South,Website,23999,Refunded,2
+TXN-00138,BTA-1138,2026-09-22,Guest 138,PKG-010,Darjeeling Highlands,East,Referral,22499,Cancelled,3
+TXN-00139,BTA-1139,2026-10-02,Guest 139,PKG-005,Andaman Island Journey,East,Partner,34999,Paid,4
+TXN-00140,BTA-1140,2026-11-09,Guest 140,PKG-012,Mysuru City Break,South,Direct,20998,Paid,1
+TXN-00141,BTA-1141,2026-09-16,Guest 141,PKG-007,Udaipur Lake Retreat,West,Website,19999,Pending,2
+TXN-00142,BTA-1142,2026-10-23,Guest 142,PKG-002,Jaipur Heritage Trail,North,Referral,17499,Paid,3
+TXN-00143,BTA-1143,2026-11-03,Guest 143,PKG-009,Pondicherry Weekend,South,Partner,11999,Refunded,4
+TXN-00144,BTA-1144,2026-09-10,Guest 144,PKG-005,Andaman Island Journey,East,Direct,69998,Cancelled,1
+TXN-00145,BTA-1145,2026-10-17,Guest 145,PKG-012,Mysuru City Break,South,Website,10499,Paid,2
+TXN-00146,BTA-1146,2026-11-24,Guest 146,PKG-007,Udaipur Lake Retreat,West,Referral,19999,Paid,3
+TXN-00147,BTA-1147,2026-09-04,Guest 147,PKG-002,Jaipur Heritage Trail,North,Partner,17499,Pending,4
+TXN-00148,BTA-1148,2026-10-11,Guest 148,PKG-009,Pondicherry Weekend,South,Direct,23998,Paid,1
+TXN-00149,BTA-1149,2026-11-18,Guest 149,PKG-004,Manali Mountain Trek,North,Website,18999,Refunded,2
+TXN-00150,BTA-1150,2026-09-25,Guest 150,PKG-011,Hampi Heritage Walk,South,Referral,14499,Cancelled,3
+TXN-00151,BTA-1151,2026-10-05,Guest 151,PKG-006,Rishikesh Adventure,North,Partner,12999,Paid,4
+TXN-00152,BTA-1152,2026-11-12,Guest 152,PKG-001,Goa Coastal Escape,West,Direct,27998,Paid,1
+TXN-00153,BTA-1153,2026-09-19,Guest 153,PKG-009,Pondicherry Weekend,South,Website,11999,Pending,2
+TXN-00154,BTA-1154,2026-10-26,Guest 154,PKG-004,Manali Mountain Trek,North,Referral,18999,Paid,3
+TXN-00155,BTA-1155,2026-11-06,Guest 155,PKG-011,Hampi Heritage Walk,South,Partner,14499,Refunded,4
+TXN-00156,BTA-1156,2026-09-13,Guest 156,PKG-006,Rishikesh Adventure,North,Direct,25998,Cancelled,1
+TXN-00157,BTA-1157,2026-10-20,Guest 157,PKG-001,Goa Coastal Escape,West,Website,13999,Paid,2
+TXN-00158,BTA-1158,2026-11-27,Guest 158,PKG-008,Coorg Coffee Escape,South,Referral,16499,Paid,3
+TXN-00159,BTA-1159,2026-09-07,Guest 159,PKG-003,Kerala Backwaters,South,Partner,23999,Pending,4
+TXN-00160,BTA-1160,2026-10-14,Guest 160,PKG-010,Darjeeling Highlands,East,Direct,44998,Paid,1

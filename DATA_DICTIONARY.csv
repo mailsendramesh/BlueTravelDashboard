@@ -1,0 +1,12 @@
+column,type,description
+transaction_id,string,Stable transaction key
+booking_id,string,Order reference
+booked_at,string,Booking date YYYY-MM-DD
+customer_label,string,Non-identifying guest label
+package_id,string,Package key
+package_name,string,Travel package
+region,string,Indian region
+channel,string,Booking origin
+amount_inr,integer,INR amount, numeric
+status,string,Paid, Pending, Refunded or Cancelled
+travellers,integer,Booking participant count

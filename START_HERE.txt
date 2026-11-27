@@ -1,0 +1,23 @@
+BLUE TRAVEL AGENCY INDIA | REACT OPERATIONS DASHBOARD
+Job ID: Ll72uErDnVmmJb1e0ijr | Fixed compensation: INR 923 | Deadline: 30 November 2026 | Estimated duration: 3 business days
+
+Objective: Build a high-fidelity responsive React dashboard using the supplied local booking API and desktop/mobile design references.
+
+Inputs:
+- INPUT_FILES/DATA/transactions.json, transactions.csv, packages.json
+- INPUT_FILES/API/server.mjs and smoke_test.mjs
+- INPUT_FILES/REACT_STARTER/ (unfinished runnable React/Vite scaffold)
+- INPUT_FILES/DESIGN_REFERENCES/desktop_1440.png and mobile_390.png (with editable SVG references)
+- INPUT_FILES/BRAND_ASSETS/logo.svg, logo.png
+- INPUT_FILES/DASHBOARD_SPECIFICATION.md, DATA_DICTIONARY.csv and ACCEPTANCE_TEST_MATRIX.csv
+
+Steps:
+1. Read README_SETUP.md, DASHBOARD_SPECIFICATION.md and the design images.
+2. Start the supplied Node.js API and React/Vite starter; keep components in a modular folder structure.
+3. Complete Sidebar, Header, MainContent and reusable SummaryCard KPI elements using React hooks.
+4. Complete TransactionTable with date sorting, status filtering, 10-row pagination and an accessible empty state.
+5. Match the brand style with scoped CSS Modules and test desktop, tablet and mobile widths.
+6. Run production build, keyboard/console/browser QA and enter genuine results in ACCEPTANCE_TEST_MATRIX.csv.
+7. Submit GitHub source repository, live HTTPS deployment URL, README, test log and COMPLETION_NOTE in one Google Drive folder accessible to the authorized reviewer as Viewer.
+
+Acceptance: Functional components, ES6+, CSS Modules, consistent tokens, correct API usage, accurate calculations, efficient sorting/filtering, no page-wide overflow and no unjustified claims of testing.

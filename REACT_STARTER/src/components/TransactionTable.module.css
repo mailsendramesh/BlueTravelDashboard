@@ -1,0 +1,313 @@
+
+.panel {
+  background: #ffffff;
+  border: 1px solid var(--border);
+  border-radius: 15px;
+  padding: 24px;
+  min-width: 0;
+  margin-top: 22px;
+}
+
+.panelHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 20px;
+}
+
+.panel h2 {
+  margin: 0;
+  font-size: 21px;
+  color: var(--navy);
+}
+
+.panel small {
+  margin-left: 8px;
+  font-size: 13px;
+  color: var(--muted);
+  font-weight: 500;
+}
+
+.description {
+  margin: 8px 0 0;
+  font-size: 14px;
+  color: var(--muted);
+}
+
+.filters {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 16px;
+  margin-bottom: 20px;
+}
+
+.searchGroup,
+.statusGroup {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+
+.searchGroup {
+  flex: 1;
+  max-width: 430px;
+}
+
+.statusGroup {
+  width: 200px;
+}
+
+.searchGroup label,
+.statusGroup label {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--navy);
+}
+
+.searchGroup input,
+.statusGroup select {
+  width: 100%;
+  min-height: 42px;
+  padding: 10px 12px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: #ffffff;
+  color: var(--navy);
+  font: inherit;
+  font-size: 13px;
+  outline: none;
+}
+
+.searchGroup input:focus,
+.statusGroup select:focus {
+  border-color: #2786bd;
+  box-shadow: 0 0 0 3px rgba(39, 134, 189, 0.12);
+}
+
+.tableWrapper {
+  width: 100%;
+  overflow-x: auto;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+}
+
+.tableWrapper:focus-visible {
+  outline: 3px solid #2786bd;
+  outline-offset: 3px;
+}
+
+.table {
+  width: 100%;
+  min-width: 760px;
+  border-collapse: collapse;
+  text-align: left;
+  font-size: 13px;
+}
+
+.table thead {
+  background: #f5f8fb;
+}
+
+.table th {
+  padding: 14px 16px;
+  color: var(--navy);
+  font-weight: 600;
+  white-space: nowrap;
+  border-bottom: 1px solid var(--border);
+}
+
+.table td {
+  padding: 15px 16px;
+  color: #53677b;
+  border-bottom: 1px solid #edf1f5;
+  white-space: nowrap;
+}
+
+.table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.table tbody tr:hover {
+  background: #f8fbfd;
+}
+
+.sortButton {
+  border: none;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+  padding: 4px 0;
+}
+
+.sortButton:hover {
+  color: #1684bd;
+}
+
+.sortButton:focus-visible,
+.paginationControls button:focus-visible {
+  outline: 3px solid #2786bd;
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+.transactionId {
+  font-weight: 600;
+  color: var(--navy) !important;
+}
+
+.packageName {
+  max-width: 210px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.amount {
+  font-weight: 600;
+  color: var(--navy) !important;
+}
+
+.status {
+  display: inline-block;
+  padding: 5px 10px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.statusPaid {
+  color: #18794e;
+  background: #e7f6ed;
+}
+
+.statusPending {
+  color: #956300;
+  background: #fff4d6;
+}
+
+.statusRefunded {
+  color: #7651a8;
+  background: #f0eafa;
+}
+
+.statusCancelled {
+  color: #b42318;
+  background: #feeceb;
+}
+
+.emptyState {
+  padding: 40px 20px !important;
+  text-align: center;
+  white-space: normal !important;
+}
+
+.emptyState strong,
+.emptyState span {
+  display: block;
+}
+
+.emptyState strong {
+  color: var(--navy);
+  margin-bottom: 7px;
+}
+
+.emptyState span {
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  margin-top: 20px;
+}
+
+.pagination p {
+  margin: 0;
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.paginationControls {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.paginationControls button {
+  padding: 8px 13px;
+  border: 1px solid var(--border);
+  border-radius: 7px;
+  background: #ffffff;
+  color: var(--navy);
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.paginationControls button:hover:not(:disabled) {
+  background: #edf6fb;
+  border-color: #2786bd;
+}
+
+.paginationControls button:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.paginationControls span {
+  font-size: 13px;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+/* Tablet and mobile */
+@media (max-width: 768px) {
+  .panel {
+    padding: 16px;
+    margin-top: 18px;
+  }
+
+  .filters {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .searchGroup,
+  .statusGroup {
+    width: 100%;
+    max-width: none;
+  }
+
+  .pagination {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .paginationControls {
+    width: 100%;
+    justify-content: space-between;
+    gap: 8px;
+  }
+}
+
+@media (max-width: 390px) {
+  .panel {
+    padding: 12px;
+  }
+
+  .panel h2 {
+    font-size: 18px;
+  }
+
+  .paginationControls button {
+    padding: 8px 10px;
+  }
+
+  .paginationControls span {
+    font-size: 12px;
+  }
+}
