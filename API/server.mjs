@@ -10,6 +10,7 @@ const allowedOrigins = [
   'http://127.0.0.1:5173',
   'http://localhost:4173',
   'http://127.0.0.1:4173',
+  'https://blue-travel-dashboard.vercel.app',
 ];
 export const server = http.createServer((req,res) => {
   const path = new URL(req.url || '/', 'http://localhost').pathname;
